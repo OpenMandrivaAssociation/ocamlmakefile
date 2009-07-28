@@ -1,5 +1,5 @@
 Name:           ocamlmakefile
-Version:        6.29.1
+Version:        6.29.3
 Release:        %mkrel 1
 Summary:        Automated compilation of complex OCaml-projects
 License:        LGPL
@@ -54,7 +54,7 @@ rm -rf %{buildroot}
 
 %files
 %defattr(-,root,root)
-%doc LICENSE README.txt Changes
+%doc LICENSE README.txt Changelog
 %dir %{_datadir}/ocamlmakefile
 %{_datadir}/ocamlmakefile/OCamlMakefile
 
