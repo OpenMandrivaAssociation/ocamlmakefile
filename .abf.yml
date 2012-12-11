@@ -1,4 +1,2 @@
 sources:
-  "ocaml-make-release-6.29.1.tar.bz2:"	a6de715aa37ff59d499f5f5fc484141c3d0357ce
-  "ocaml-make-release-6.29.3.tar.bz2:"	fde94fd9b7318e4b52f48f43953f7a95cd98fe15
-  "README.examples.idl:"	dcc410cea893129a5df0458a1cb9f3d2aaba4cb9
+  "ocaml-make-release-6.29.3.tar.bz2": fde94fd9b7318e4b52f48f43953f7a95cd98fe15

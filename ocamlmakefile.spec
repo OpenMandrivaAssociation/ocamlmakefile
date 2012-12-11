@@ -62,3 +62,15 @@ rm -rf %{buildroot}
 %defattr(-,root,root)
 %doc calc camlp4 gtk idl threads
 
+
+
+%changelog
+* Tue Jul 28 2009 Florent Monnier <blue_prawn@mandriva.org> 6.29.3-1mdv2010.0
++ Revision: 401367
+- updated version
+
+* Thu Jan 29 2009 Florent Monnier <blue_prawn@mandriva.org> 6.29.1-1mdv2009.1
++ Revision: 335159
+- import ocamlmakefile
+
+
