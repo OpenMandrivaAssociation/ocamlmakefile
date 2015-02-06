@@ -1,7 +1,7 @@
 Summary:	Automated compilation of complex OCaml-projects
 Name:		ocamlmakefile
 Version:	6.37.0
-Release:	1
+Release:	2
 License:	LGPLv2.1+ with OCaml linking exception
 Group:		Development/Other
 Url:		https://bitbucket.org/mmottl/ocaml-makefile
